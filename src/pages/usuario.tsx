@@ -6,8 +6,11 @@ import Id from "@/logic/core/comum/Id";
 import { IconForms } from "@tabler/icons-react";
 import usuario from "@/data/constants/usuarioFalso";
 import Formularios from "@/components/usuario/Formularios";
+import { useContext } from "react";
+import AutenticacaoContext from "@/data/contexts/AutenticacaoContext";
 
 export default function CadastroUsuario(){
+    const { usuario } = useContext(AutenticacaoContext)
     return (
         <Pagina>
             <Cabecalho/>
@@ -15,10 +18,9 @@ export default function CadastroUsuario(){
                 <TituloPagina 
                     icone={<IconForms />}
                     principal="Dados Cadastrais"    
-                    secundario={`Informações de ${usuario.email}`}
+                    secundario={`Informações de ${usuario?.email}`}
                 />
                 <Formularios />
-                Usuário !!!!! 
             </Conteudo>
         </Pagina>
     )
