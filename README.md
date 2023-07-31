@@ -9,8 +9,12 @@ Seja Bem-vindo! 🙋‍♂️
 
 <h2 align="center">
     <img alt="Bitcent" src=".github/cover.svg" />
-</h2>
+  </h2>
 
+
+<h2 align="center">
+    <img alt="BitCENT_mp4" src="./public/8654fe42-47cd-4ddd-8838-0de8928daa79.gif" />
+</h2>
 <br>
 
 ## Tecnologias
