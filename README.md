@@ -1,10 +1,6 @@
 <h1 align="center">
-Olá Devs! 👋
+Seja Bem-vindo! 🙋‍♂️
 </h1>
-
-<p align="center">
- Repositório Bitcent <b>versão completa</b>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TDEV-01-blue" alt="Semana Transformação.DEV #01" />
@@ -97,5 +93,3 @@ Projeto foi desenvolvido durante a **[Semana Tranformação.DEV](https://transfo
 Esse projeto está sob a [licença MIT](LICENSE.md).
 
 ---
-
-Cod3r com ❤️ -  [Nossa Comunidade no Discord](https://discord.gg/JexVkcc3vr)
